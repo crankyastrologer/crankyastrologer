@@ -34,11 +34,6 @@
 
 <br/>
 
-[website]: https://sanyam.xyz/
-[soundcloud]: https://soundcloud.com/prodmxle
-[twitter]: https://twitter.com/prodmxle
-[spotify]: https://open.spotify.com/artist/2QbtOIjb8mUIsnCNqvyWAW?si=a47ce93f69dd4a5d
-[discord]: https://discord.gg/35me98GxdF
-[here]: https://medium.com/@prodmxle
+
 
 ![visitors](https://komarev.com/ghpvc/?username=crankyastrologer&style=flat-square)
